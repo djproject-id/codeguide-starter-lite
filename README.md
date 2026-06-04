@@ -2,6 +2,11 @@
 
 # CodeGuide Starter Kit
 
+[![Stars](https://img.shields.io/github/stars/djproject-id/codeguide-starter-lite?style=flat-square)](https://github.com/djproject-id/codeguide-starter-lite/stargazers)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/djproject-id/codeguide-starter-lite/blob/main/CONTRIBUTING.md)
+[![Good First Issues](https://img.shields.io/github/issues/djproject-id/codeguide-starter-lite/good%20first%20issue?style=flat-square&label=good%20first%20issues)](https://github.com/djproject-id/codeguide-starter-lite/issues?q=is%3Aopen+label%3A%22good+first+issue%22)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fdjproject-id%2Fcodeguide-starter-lite)
+
 A modern web application starter template built with Next.js 15, featuring authentication, database integration, AI capabilities, and dark mode support.
 
 ## Tech Stack
